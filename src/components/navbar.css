@@ -1,0 +1,15 @@
+.nav-container{
+    width: 100%;
+    display: flex;
+    background-color: blue;
+}
+.nav-1{
+    width: 30%;
+    display: flex;
+    justify-content: flex-start;
+}
+.nav-1 p{
+    margin-left: 16px;
+    cursor: pointer;
+    color: white;
+}

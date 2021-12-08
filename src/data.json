@@ -1,0 +1,58 @@
+{
+    "title": "Hello I'm Ali Morteza",
+    "subtitle": "Front-End Developer | React js | React Native ",
+    "links":{
+        "github":"https://github.com/",
+        "stackoverflow":"https://stackoverflow.com/",
+        "linkedin":"https://linkedin.com/",
+        "instagram":"https://instagram.com/",
+        "facebook":"https://facebook.com"
+        
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items": [
+                {
+                    "type":"p",
+                    "content":"I am a student of computer engineering, I started my activity in the field of programming in 1397 and I have done many projects so far, and my specialty in this field is JavaScript and React js repository I am a student of computer engineering, I started my activity in the field of programming in 1397 and I have done many projects so far, and my specialty in this field is JavaScript and React js repository."
+                }
+            ]
+
+        },
+        {
+            "title":"Skills",
+            "items": [
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/react.png",
+                        "title": "React js"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/javascript.png",
+                        "title": "JavaScript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/css3.png",
+                        "title": "Css"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/html.png",
+                        "title": "Html"
+                    }
+                }
+            ]
+
+        }
+    ]
+}
